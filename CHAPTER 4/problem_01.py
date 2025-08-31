@@ -1,0 +1,12 @@
+a=[]
+a1=input("enter name::")
+a.append(a1)
+a2=input("enter name::")
+a.append(a2)
+a3=input("enter name::")
+a.append(a3)
+a4=input("enter name::")
+a.append(a4)
+a5=input("enter name::")
+a.append(a5)
+print(a)

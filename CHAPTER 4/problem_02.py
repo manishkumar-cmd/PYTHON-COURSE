@@ -1,0 +1,13 @@
+a=[]
+a1=int(input("enter your makrs here::"))
+a.append(a1)
+a2=int(input("enter your makrs here::"))
+a.append(a2)
+a3=int(input("enter your makrs here::"))
+a.append(a3)
+a4=int(input("enter your makrs here::"))
+a.append(a4)
+a5=int(input("enter your makrs here::"))
+a.append(a5)
+a.sort()
+print(a)
